@@ -1,0 +1,30 @@
+[submodule "turtlebot3"]
+	path = turtlebot3
+	url = https://github.com/ROBOTIS-GIT/turtlebot3
+[submodule "open_manipulator"]
+	path = open_manipulator
+	url = https://github.com/ROBOTIS-GIT/open_manipulator/
+[submodule "open_manipulator_dependencies"]
+	path = open_manipulator_dependencies
+	url = https://github.com/ROBOTIS-GIT/open_manipulator_dependencies
+[submodule "open_manipulator_msgs"]
+	path = open_manipulator_msgs
+	url = https://github.com/ROBOTIS-GIT/open_manipulator_msgs
+[submodule "open_manipulator_simulations"]
+	path = open_manipulator_simulations
+	url = https://github.com/ROBOTIS-GIT/open_manipulator_simulations
+[submodule "turtlebot3_manipulation"]
+	path = turtlebot3_manipulation
+	url = https://github.com/ROBOTIS-GIT/turtlebot3_manipulation
+[submodule "turtlebot3_manipulation_simulations"]
+	path = turtlebot3_manipulation_simulations
+	url = https://github.com/ROBOTIS-GIT/turtlebot3_manipulation_simulations
+[submodule "turtlebot3_msgs"]
+	path = turtlebot3_msgs
+	url = https://github.com/ROBOTIS-GIT/turtlebot3_msgs
+[submodule "DynamixelSDK"]
+	path = DynamixelSDK
+	url = https://github.com/ROBOTIS-GIT/DynamixelSDK
+[submodule "Dynamixel-workbench"]
+	path = Dynamixel-workbench
+	url = https://github.com/ROBOTIS-GIT/Dynamixel-workbench
