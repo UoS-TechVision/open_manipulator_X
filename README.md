@@ -13,7 +13,11 @@ git submodule update
 ```
 Additionally, some system packages are required for these submodules to function as expected:
 ```
-sudo apt install ros-noetic-gazebo* ros-noetic-ros-control* ros-noetic-control* \
-ros-noetic-moveit* ros-noetic-industrial-core ros-noetic-dynamixel-sdk \
-ros-noetic-dynamixel-workbench* ros-noetic-robotis-manipulator
+sudo apt install ros-noetic-gazebo* ros-noetic-ros-control* ros-noetic-control* ros-noetic-moveit* ros-noetic-industrial-core
+```
+```
+sudo apt install ros-noetic-dynamixel-sdk ros-noetic-dynamixel-workbench*
+```
+```
+sudo apt install ros-noetic-robotis-manipulator
 ```
