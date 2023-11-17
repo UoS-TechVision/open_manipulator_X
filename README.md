@@ -21,3 +21,7 @@ sudo apt install ros-noetic-dynamixel-sdk ros-noetic-dynamixel-workbench*
 ```
 sudo apt install ros-noetic-robotis-manipulator
 ```
+To verify that your installation is functioning correctly, launch the omx_testing file to test the robot:
+```
+roslaunch omx omx_testing.launch
+```
