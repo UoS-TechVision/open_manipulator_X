@@ -3,6 +3,8 @@
 
 ## Installation
 
+Clone the repository into the catkin_ws/src folder.
+
 This repository contains Git Submodules which, upon cloning, creates empty package folders. These are submodules linking to [ROBOTIS-GIT](https://github.com/ROBOTIS-GIT).
 To populate them, the following commands must be executed:
 ```
@@ -20,5 +22,6 @@ sudo apt install ros-noetic-dynamixel-sdk ros-noetic-dynamixel-workbench* ros-no
 ```
 To verify that your installation is functioning correctly, launch the omx_testing file to test the robot:
 ```
+cd omx/launch
 roslaunch omx omx_testing.launch
 ```
