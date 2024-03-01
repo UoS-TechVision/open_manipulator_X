@@ -25,3 +25,8 @@ To verify that your installation is functioning correctly, launch the omx_testin
 cd omx/launch
 roslaunch omx omx_testing.launch
 ```
+## Resources
+- [MoveIt](https://moveit.ros.org/)
+- [COM2009 Website](https://tom-howard.github.io/ros/)
+- [Open Manipulator X](https://emanual.robotis.com/docs/en/platform/openmanipulator_x/overview/)
+
